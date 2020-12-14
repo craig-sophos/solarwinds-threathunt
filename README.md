@@ -18,7 +18,7 @@ That should return a single row with a 200 for response and a large data blob in
 
 https://raw.githubusercontent.com/craig-sophos/solarwinds-threathunt/main/iocs.csv
 
-## Variables in Central
+## Variables in Sophos Central Live Response
 
 |Detail |Type  | 	Value  |   
 |---|---|---|
