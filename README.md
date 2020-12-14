@@ -1,4 +1,4 @@
-# Files for Conducting a Threathunt for the Solarwinds Compromise 
+# Conducting a Threathunt for the Solarwinds Compromise 
 
 ## IOCs
 CSV of Published IOCs - https://github.com/craig-sophos/solarwinds-threathunt/blob/main/iocs.csv
