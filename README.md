@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/sophoslabs/IoCs/master/Ransomware-Ryuk.csv
 VARIABLES:
 VARIABLE 
 
-|TYPE  | 	VALUE  |   
+|Detail |Type  | 	Value  |   
 |---|---|---|
 | Number of Hours of activity to search  | STRING | 24 |  
 |  RAW IOC List location from a URL|STRING|72 | 
