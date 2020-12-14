@@ -1,4 +1,4 @@
-# Solarwinds threathunt for Live Discover
+# Live Discover threathunt for Solarwinds
 
 
 The query takes a CSV file published by SOPHOS Security based on Fireeye published IOCs and parses out the IOCs, then performs a hunt. Note you have to setup the variables and use the RAW csv file in Sophos Central.
