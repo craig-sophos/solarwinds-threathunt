@@ -23,6 +23,6 @@ https://raw.githubusercontent.com/craig-sophos/solarwinds-threathunt/main/iocs.c
 |Detail |Type  | 	Value  |   
 |---|---|---|
 | Number of Hours of activity to search  | STRING | 24 |  
-|  RAW IOC List location from a URL|STRING|72 | 
+|  RAW IOC List location from a URL|STRING|https://raw.githubusercontent.com/craig-sophos/solarwinds-threathunt/main/iocs.csv | 
 |Start Search From | DATE | 06/06/2020 12:00:00 |
 
